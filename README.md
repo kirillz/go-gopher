@@ -23,3 +23,4 @@ Pattern is currently available in the languages below. Feel free to translate an
 ## Contributions
 
 You can contribute by improving the pattern or translating it to any language you know. Open a PR to submit a new file or edit the pattern. Thanks for your contributions.
+Find me here: https://revive-it.ru
